@@ -9,5 +9,15 @@ MySQL, Power BI
 
 # Questions Answered (KPIs)
 * Demographic insights
-  - Who is buying the product more? Which type of marketing reaches the youth the most?
+  - Who is buying the product more?
+  - Which type of marketing reaches the youth the most?
+  - Which age group prefers energy drinks more?
 * Consumer Preferences
+  - What are the preferred ingredients of energy drinks among respondents?
+  - What packaging preferences do respondents have for energy drinks?
+* Competition Analysis
+  - Who are the current market leaders?
+  - What are the primary reasons consumers prefer those brands over ours?
+* Marketing Channels and Brand Awareness
+  - Which marketing channel can be used to reach more customers?
+  - How effective are different marketing strategies and channels in reaching our customers?
