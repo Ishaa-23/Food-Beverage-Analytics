@@ -21,3 +21,12 @@ MySQL, Power BI
 * Marketing Channels and Brand Awareness
   - Which marketing channel can be used to reach more customers?
   - How effective are different marketing strategies and channels in reaching our customers?
+* Brand Penetration
+  - Overall rating
+  - Which cities do we need to focus on more?
+* Purchase Behavior
+  - Where do respondents prefer to purchase energy drinks?
+  - What are the typical consumption situations for energy drinks among respondents?
+  - What factors influence respondents' purchase decisions, such as price range and limited edition packaging?
+* Product Development
+  - Which area of business should we focus more on our product development?
