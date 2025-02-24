@@ -30,3 +30,20 @@ MySQL, Power BI
   - What factors influence respondents' purchase decisions, such as price range and limited edition packaging?
 * Product Development
   - Which area of business should we focus more on our product development?
+
+# Insights
+* Demographic Insights
+  - The majority of respondents are males from Bangalore, primarily aged 19 to 30.
+  - The most affected marketing strategy is Online ads and reaches the youth the most.
+  - People from 19-30 age group prefer energy drinks more
+* Consumer Preferences
+  - Consumers prefer more caffeine and less sugar, preferably organic.
+  - Consumers have shown preference for compact and portable cans for packing 
+
+
+
+
+
+
+
+
