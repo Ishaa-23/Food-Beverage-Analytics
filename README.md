@@ -39,9 +39,20 @@ MySQL, Power BI
 * Consumer Preferences
   - Consumers prefer more caffeine and less sugar, preferably organic.
   - Consumers have shown preference for compact and portable cans for packing 
-
-
-
+* Competition analysis
+  - Cola Coka is known for its brand reputation and is therefore the biggest competitor
+* Marketing Channels and Brand Awareness
+  - Online ads followed by TV commercials have the highest reach amongst the youth of 19-30
+* Brand  Penetration
+  - Overall consumers have rated CodeX as a 3.28
+  - Bangalore, Hyderabad & Mumbai are the cities having the most buying factor for CodeX.
+* Purchase behavior
+  - The consumers prefer to purchase the drink at supermarkets.
+  - They consume it before exercise or if they need energy to stay up late as it gives them increased energy and focus.
+  - Consumers prefer the price in range of 50-99 and don't have a strong demand for limited packaging.
+* Product Development
+  - A major area of business that can be focused on is the lack of inventory in local stores. A lot of people are not able to try it in the first place due to this.
+  - Reduced sugar content is something consumers are concerned with too. This maybe due to health concerns
 
 
 
